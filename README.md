@@ -10,9 +10,11 @@
           </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br>
+    <div style="text-align: left;"> 
+    <a href="mailto:rlaghkstn511@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> </a>
     <div style="text-align: left;"> <a href=https://www.instagram.com/kim.hwan_x> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/kim.hwan_x"> </a>
-         <a href=https://www.notion.so/1b77c0de22c58005b67ed4583197badf?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/1b77c0de22c58005b67ed4583197badf?source=copy_link"> </a>
+    <a href=https://www.notion.so/1b77c0de22c58005b67ed4583197badf?source=copy_link> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/1b77c0de22c58005b67ed4583197badf?source=copy_link"> </a>
           </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
